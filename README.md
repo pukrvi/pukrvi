@@ -4,10 +4,6 @@
   <em>I'm an Entrepreneur and AI Product Manager who builds.</em>
 </p>
 
-<p align="center">
-  Currently <strong>AI Product Manager</strong> at <a href="https://gtmbuddy.ai">GTM Buddy</a> — sole PM across 10 enterprise B2B product areas spanning agentic AI, workflow automation, search, and analytics.
-</p>
-
 ---
 
 ## 🛠️ What I work on
