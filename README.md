@@ -39,11 +39,8 @@ Two threads run in parallel — shipping agentic AI inside <a href="https://gtmb
 - 📰 **digital-journalist** — Deep research agent harness for AI-assisted writing
 - 🛠️ **skills** — A curated library of ready-to-use skills for agentic engineering, writing, documentation, PM workflows, and daily productivity
 
-> Most of my production work lives behind the firewall at GTM Buddy and InfinitiGrid. The public repos here are personal experiments and tooling.
-
 ## 📫 Find me
 
-- 📧 [pukrvi@gmail.com](mailto:pukrvi@gmail.com)
 - 💼 [LinkedIn — in/puneet-vishnawat](https://www.linkedin.com/in/puneet-vishnawat/)
 - 🏢 [InfinitiGrid](https://infinitigrid.com/)
 
