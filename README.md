@@ -4,21 +4,78 @@
   <em>I'm an Entrepreneur and AI Product Manager who builds.</em>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%">🤖<br><strong>Agentic Engineering</strong></td>
+    <td align="center" width="33%">🧬<br><strong>Multi-Agent Orchestration</strong></td>
+    <td align="center" width="33%">🔌<br><strong>MCP & Integrations</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">⚙️<br><strong>Workflow Automation</strong></td>
+    <td align="center" width="33%">🛠️<br><strong>Skills & Plugins</strong></td>
+    <td align="center" width="33%">🎨<br><strong>Vibe Coding</strong></td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ What I work on
 
 Two threads run in parallel — shipping agentic AI inside <a href="https://gtmbuddy.ai">GTM Buddy</a>, and running custom AI builds for B2B clients at <a href="https://infinitigrid.com/">InfinitiGrid</a>. On the side, I'm building <strong>Runflow</strong> — a personalized running and fitness app from scratch.
 
-- 🤖 **Agent harnesses & multi-agent orchestration** — built scoring-rubric evaluators, multi-agent sequential chains for sales enablement, customer-support triage automations, and documentation-sync agents that keep enterprise knowledge bases aligned with the product
-- 🔌 **AI-integration tooling at production scale** — led and launched an MCP-based integration layer with **100+ platform tools across a dozen categories** powering Claude, ChatGPT, and Gemini-based workflows for enterprise customers
-- 🧰 **Claude Code skills & plugins as workflow solutions** — shipped **60+ skills and 5 distributed plugins** covering PRDs, KB articles, release notes & decks, weekly updates, and full sprint phases (think → plan → build → review → test → ship → reflect)
-- 🗂️ **Scheduled, self-running AI infrastructure** — enterprise knowledge-base mirrors that sync weekly via macOS launchd; first always-on AI-adjacent infrastructure inside the company
-- 🧠 **Custom AI agent builds for B2B clients at [InfinitiGrid](https://infinitigrid.com/)** — agentic automation across femtech, edtech, legaltech, and SaaS; cut client operating cost **30–40%** through workflow automation and 24/7 autonomous agents
-- 💬 **[Your Law Chat](https://infinitigrid.com/) (2023)** — built and launched an AI legal-consultation chatbot on a custom LLM architecture; **first company in India to launch an LLM chatbot on WhatsApp**; 1,200+ users in 3 months, 82% repeat usage, NPS 75
-- 🏃 **Runflow** — building a personalized running and fitness app from scratch; AI plan-engine in early prototyping (brand, style guide, and decision log locked in)
-- 🎨 **Rapid prototyping with vibe-coding tools** — Angular and HTML/JSX UX prototypes built using Lovable, Claude Code, and Codex
-- 🌱 **Local & on-device AI** — Ollama, LM Studio, and on-device LLM experiments for privacy-sensitive workflows
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>🤖 Agent Harnesses & Orchestration</strong>
+      <br><br>
+      Built scoring-rubric evaluators, multi-agent sequential chains for sales enablement, customer-support triage automations, and documentation-sync agents that keep enterprise knowledge bases aligned with the product.
+    </td>
+    <td valign="top" width="33%">
+      <strong>🔌 AI-Integration Tooling at Scale</strong>
+      <br><br>
+      Led and launched an MCP-based integration layer with <strong>100+ platform tools across a dozen categories</strong> powering Claude, ChatGPT, and Gemini-based workflows for enterprise customers.
+    </td>
+    <td valign="top" width="33%">
+      <strong>🧰 Skills & Plugins as Solutions</strong>
+      <br><br>
+      Shipped <strong>60+ Claude Code skills and 5 distributed plugins</strong> covering PRDs, KB articles, release notes & decks, weekly updates, and full sprint phases (think → plan → build → review → test → ship → reflect).
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>🗂️ Scheduled, Self-Running AI Infra</strong>
+      <br><br>
+      Enterprise knowledge-base mirrors that sync weekly via macOS launchd; first always-on AI-adjacent infrastructure inside the company.
+    </td>
+    <td valign="top" width="33%">
+      <strong>🧠 Custom AI Agents for B2B Clients</strong>
+      <br><br>
+      At <a href="https://infinitigrid.com/">InfinitiGrid</a> — agentic automation across femtech, edtech, legaltech, and SaaS; cut client operating cost <strong>30–40%</strong> through workflow automation and 24/7 autonomous agents.
+    </td>
+    <td valign="top" width="33%">
+      <strong>💬 Your Law Chat · 2023</strong>
+      <br><br>
+      Built and launched an AI legal-consultation chatbot on a custom LLM architecture; <strong>first company in India to launch an LLM chatbot on WhatsApp</strong>; 1,200+ users in 3 months, 82% repeat usage, NPS 75.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>🏃 Runflow</strong>
+      <br><br>
+      Building a personalized running and fitness app from scratch; AI plan-engine in early prototyping (brand, style guide, and decision log locked in).
+    </td>
+    <td valign="top" width="33%">
+      <strong>🎨 Rapid Prototyping with Vibe Coding</strong>
+      <br><br>
+      Angular and HTML/JSX UX prototypes built using Lovable, Claude Code, and Codex — moving from sketch to clickable artifact in hours, not sprints.
+    </td>
+    <td valign="top" width="33%">
+      <strong>🌱 Local & On-Device AI</strong>
+      <br><br>
+      Ollama, LM Studio, and on-device LLM experiments for privacy-sensitive workflows where data can't leave the machine.
+    </td>
+  </tr>
+</table>
 
 ## 🧭 About Me
 
